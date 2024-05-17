@@ -1,0 +1,9 @@
+admin username: dawa
+admin password: admin123
+admin login: http://localhost/Passion-Seekers/loginPageAdmin.php
+
+
+
+algorithm files:
+__recc.php
+__recommendations.php
